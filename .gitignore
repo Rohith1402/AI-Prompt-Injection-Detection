@@ -1,0 +1,21 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated logs
+ai_security.log
+*.log
+
+# Generated reports
+soc_security_report.csv
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
